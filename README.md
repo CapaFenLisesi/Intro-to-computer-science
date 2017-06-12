@@ -9,9 +9,15 @@ This is a repo for the gentle introduction to Computer Science for our students 
 
 ### Abstract Data Types
 
+### Hackerrank
+
 ## Day 2
 
 ### Sorting
+
+### Hackerrank
+
+## Day 3
 
 ### Searching
 
