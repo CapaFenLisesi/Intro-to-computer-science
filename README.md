@@ -3,12 +3,16 @@ This is a repo for the gentle introduction to Computer Science for our students 
 
 # Basic outline
 
-## Introduction
+## Day 1
 
-## Abstract Data Types
+### Introduction
 
-## Sorting
+### Abstract Data Types
 
-## Searching
+## Day 2
 
-## Hackerrank
+### Sorting
+
+### Searching
+
+### Hackerrank
