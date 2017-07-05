@@ -4,8 +4,8 @@ This is a repo for the gentle introduction to Computer Science for our students 
 # Basic outline
 
 ## Day 1
-
 ### Things to do before the class
+* Set up an account at [Hackerrank](https://www.hackerrank.com/)
 * Watch the video [Work at Google — Example Coding/Engineering Interview](https://www.youtube.com/watch?v=XKu_SEDAykw)
 * You are given an array of numbers: `[32, 16, 13, 9, 1, 99, 34, 64]`. Try to think in how many ways you can sort its elements. We are not interested here in using any programming language, just plain English. The following videos may help you to understand the idea behind the pseudocode: 
   - [Algorithms in pseudocode and flow diagrams](https://www.youtube.com/watch?v=XDWw4Ltfy5w)
