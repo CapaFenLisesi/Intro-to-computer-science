@@ -1,9 +1,7 @@
 # Introduction to Computer Science
 This is a repo for the gentle introduction to Computer Science for our students at Code Your Future in Glasgow. 
 
-# Basic outline
-
-## Day 1
+# Day 1
 ### Things to do before the class
 * Set up an account at [Hackerrank](https://www.hackerrank.com/)
 * Watch the video [Work at Google — Example Coding/Engineering Interview](https://www.youtube.com/watch?v=XKu_SEDAykw)
@@ -35,13 +33,13 @@ This is a repo for the gentle introduction to Computer Science for our students 
 
 ### Hackerrank
 
-## Day 2
+# Day 2
 
 ### Sorting
 
 ### Hackerrank
 
-## Day 3
+# Day 3
 
 ### Searching
 
