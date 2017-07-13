@@ -50,6 +50,9 @@ This is a repo for the gentle introduction to Computer Science for our students 
   - computers are stupid, so they need exact instructions
   - helps improve the performance - competition! [Matrix multiplication algorithm](https://en.wikipedia.org/wiki/Matrix_multiplication_algorithm)
     
+### Excercise (15 mins)
+You are given an array of numbers: `[32, 16, 13, 9, 1, 99, 34, 64]`. In how many ways we can sort its elements? We are not interested here in using any programming language, just plain English. 
+    
 ### What are characteristics of a good algorithm? 
   - efficient (speed and space)
   - correct
