@@ -28,8 +28,6 @@ How can we create an algorithm to make a tea?
 
   - Online banking relies on public key cryptography - how to be sure that nobody can see your communication with the bank. How would you send a password over insecure network? Padlock and box exchange. Also, watch [RSA encryption: Step 1](https://www.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/intro-to-rsa-encryption) on Khan Academy
   
-  - Computer graphics.  
-  
   - Google as a search engine  
   Before Google, search engines were not really reliable (they couldn't even find themselves!)
     
@@ -41,7 +39,8 @@ How can we create an algorithm to make a tea?
   - Detecting spam emails - classification problem   
   
   ![alt text](http://www.revotas.com/blog/wp-content/uploads/2012/01/outlook-junk-e-mail.jpg "Spam")
-  ![alt text](http://2.bp.blogspot.com/-xFzQcc77w2M/UBFM8zsVn_I/AAAAAAAAAQk/3EP4HUhGY1o/s1600/spam+classification.png "Spam classifier")  
+  ![alt text](http://2.bp.blogspot.com/-xFzQcc77w2M/UBFM8zsVn_I/AAAAAAAAAQk/3EP4HUhGY1o/s1600/spam+classification.png "Spam classifier")    
+  - Computer graphics.  
   - Amazon recommendation system
   - Postcode recognition - mail sorting
   - Real time face recognition on the airports
