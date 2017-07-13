@@ -43,7 +43,7 @@ How can we create an algorithm to make a tea?
   ![alt text](http://www.revotas.com/blog/wp-content/uploads/2012/01/outlook-junk-e-mail.jpg "Spam")
   ![alt text](http://2.bp.blogspot.com/-xFzQcc77w2M/UBFM8zsVn_I/AAAAAAAAAQk/3EP4HUhGY1o/s1600/spam+classification.png "Spam classifier")  
   - Amazon recommendation system
-  
+  - Postcode recognition - mail sorting
   - Real time face recognition on the airports
 
 ### Excercise (15 mins)
@@ -72,8 +72,13 @@ which has roughly 2,000 hotels, that works out to roughly 40,000 database calls
 for a single page load**. I might not have melted that day, but our database server
 nearly did. [4]
   
-  - Pokemon app
   - appending the DOM
+  - Pokemon app
+  - [Tay (bot)](https://en.wikipedia.org/wiki/Tay_(bot))
+      > Microsoft had not given the bot an understanding of inappropriate behavior.(...) 
+      > Because these tweets mentioned its own account (@TayandYou) in the process, they appeared in the feeds of 200,000+ Twitter followers, causing annoyance to some.
+  - T-shirt company called [Solid Gold Bomb](http://www.bbc.com/future/story/20150820-the-bad-things-that-happen-when-algorithms-run-online-shops)
+      > Fowler had set up an algorithm to upload thousands upon thousands of T-shirt designs to his online stores. The designs were based on the infamous “keep calm and carry on” catchphrase, a slogan which was originally dreamt up as a way of preserving morale in the event of a Nazi invasion of Britain. Fowler had decided to “parody” it by getting a computer programme to come up with random variations such as “keep calm and dance on” or “keep calm and play football”.
 
 ### Excercise (15 mins)
 [TODO] Factorial or Fibonnacci function. 
