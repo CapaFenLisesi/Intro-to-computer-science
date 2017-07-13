@@ -57,6 +57,21 @@ You are given an array of numbers: `[32, 16, 13, 9, 1, 99, 34, 64]`. In how many
     
 ### When algorithms go wrong 
 
+  - TripAdvisor  
+    > My first project at TripAdvisor was to add **new sort options** to the web page
+that listed **all the hotels in a city**. It was a quick task—just enough to become
+familiar with the codebase—and I was able to get it done and pushed to production
+in my first week. Shortly thereafter, I was in my manager’s office for our first
+one-on-one meeting, and I watched as he clicked on the hotel listings for Paris,
+selected the new sort option, and waited. And waited. And waited. It took nearly
+two hours for the page to load. Well, it was probably closer to two minutes, (...) 
+Later that night—much later—I figured out that my fancy new code was
+**making two database calls every time it compared hotels during the sorting process.
+It takes on the order of n log n comparisons to sort n items, so for Paris,
+which has roughly 2,000 hotels, that works out to roughly 40,000 database calls
+for a single page load**. I might not have melted that day, but our database server
+nearly did. [4]
+  
   - Pokemon app
   - appending the DOM
 
@@ -93,3 +108,4 @@ https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-not
 1. http://www.inf.ed.ac.uk/teaching/courses/inf2b/algnotes/note01.pdf
 2. [The Anatomy of a Large-Scale Hypertextual Web Search Engine](http://infolab.stanford.edu/~backrub/google.html) by Sergey Brin and Lawrence Page
 3. [The PageRank Citation Ranking: Bringing Order to the Web](http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf)
+4. [Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams](https://www.amazon.co.uk/Hello-Startup-Programmers-Building-Technologies/dp/1491909900/ref=sr_1_1?ie=UTF8&qid=1499961796&sr=8-1&keywords=hello+startup)
