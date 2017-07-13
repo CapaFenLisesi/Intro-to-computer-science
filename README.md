@@ -79,6 +79,11 @@ nearly did. [4]
       > Because these tweets mentioned its own account (@TayandYou) in the process, they appeared in the feeds of 200,000+ Twitter followers, causing annoyance to some.
   - T-shirt company called [Solid Gold Bomb](http://www.bbc.com/future/story/20150820-the-bad-things-that-happen-when-algorithms-run-online-shops)
       > Fowler had set up an algorithm to upload thousands upon thousands of T-shirt designs to his online stores. The designs were based on the infamous “keep calm and carry on” catchphrase, a slogan which was originally dreamt up as a way of preserving morale in the event of a Nazi invasion of Britain. Fowler had decided to “parody” it by getting a computer programme to come up with random variations such as “keep calm and dance on” or “keep calm and play football”.
+      
+   - Google Apologizes For [Tagging Photos Of Black People As ‘Gorillas’](http://www.huffingtonpost.com/2015/07/02/google-black-people-goril_n_7717008.html)
+      > When Jacky Alciné checked his Google Photos app earlier this week, he noticed it labeled photos of himself and a friend, both black, as “gorillas.”  
+      
+   ![alt text](https://github.com/Michael-Antczak/Intro-to-computer-science/blob/master/resources/Google-tagging.png "Google tagging")
 
 ### Excercise (15 mins)
 [TODO] Factorial or Fibonnacci function. 
@@ -117,3 +122,5 @@ https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-not
 3. [The PageRank Citation Ranking: Bringing Order to the Web](http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf)
 4. [Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams](https://www.amazon.co.uk/Hello-Startup-Programmers-Building-Technologies/dp/1491909900/ref=sr_1_1?ie=UTF8&qid=1499961796&sr=8-1&keywords=hello+startup)
 5. [What Will Happen When Your Company’s Algorithms Go Wrong?](https://hbr.org/2017/04/what-will-happen-when-your-companys-algorithms-go-wrong)
+6. [Google Apologizes For Tagging Photos Of Black People As ‘Gorillas’](http://www.huffingtonpost.com/2015/07/02/google-black-people-goril_n_7717008.html)
+7. [Google apologises for Photos app's racist blunder](http://www.bbc.co.uk/news/technology-33347866)
