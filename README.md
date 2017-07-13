@@ -116,3 +116,4 @@ https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-not
 2. [The Anatomy of a Large-Scale Hypertextual Web Search Engine](http://infolab.stanford.edu/~backrub/google.html) by Sergey Brin and Lawrence Page
 3. [The PageRank Citation Ranking: Bringing Order to the Web](http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf)
 4. [Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams](https://www.amazon.co.uk/Hello-Startup-Programmers-Building-Technologies/dp/1491909900/ref=sr_1_1?ie=UTF8&qid=1499961796&sr=8-1&keywords=hello+startup)
+5. [What Will Happen When Your Company’s Algorithms Go Wrong?](https://hbr.org/2017/04/what-will-happen-when-your-companys-algorithms-go-wrong)
