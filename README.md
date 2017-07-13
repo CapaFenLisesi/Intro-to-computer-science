@@ -40,10 +40,10 @@ How can we create an algorithm to make a tea?
   
   ![alt text](http://www.revotas.com/blog/wp-content/uploads/2012/01/outlook-junk-e-mail.jpg "Spam")
   ![alt text](http://2.bp.blogspot.com/-xFzQcc77w2M/UBFM8zsVn_I/AAAAAAAAAQk/3EP4HUhGY1o/s1600/spam+classification.png "Spam classifier")    
+  - Postcode recognition - [Ever wonder how mail is sorted?](https://www.youtube.com/watch?v=bB7dhE_TW9g) @1:00
+  - Real time face recognition on the airports
   - Computer graphics.  
   - Amazon recommendation system
-  - Postcode recognition - mail sorting
-  - Real time face recognition on the airports
 
 ### Excercise (15 mins)
 You are given an array of numbers: `[32, 16, 13, 9, 1, 99, 34, 64]`. In how many ways we can sort its elements? We are not interested here in using any programming language, just plain English. 
