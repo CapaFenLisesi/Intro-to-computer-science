@@ -19,27 +19,29 @@ This is a repo for the gentle introduction to Computer Science for our students 
 
   Yes and no. 
   
+### Excercise (10 mins)
+How can we create an algorithm to make a tea? 
+  
 ### Everyday problems that need good algorithms
   
   - Navigation - find the shortest path from A to B, say using [Google Maps](https://www.google.co.uk/maps/dir/Edinburgh/Glasgow/@55.938524,-3.9995526,10z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x4887b800a5982623:0x64f2147b7ce71727!2m2!1d-3.188267!2d55.953252!1m5!1m1!1s0x488815562056ceeb:0x71e683b805ef511e!2m2!1d-4.251806!2d55.864237) to get the best route from Edinburgh to Glasgow. Visualise the search with [Dijkstra algorithm](https://qiao.github.io/PathFinding.js/visual/)  . Also check [route finding](https://www.khanacademy.org/computing/computer-science/algorithms/intro-to-algorithms/a/route-finding).
 
   - Online banking relies on public key cryptography - how to be sure that nobody can see your communication with the bank. How would you send a password over insecure network? Padlock and box exchange. Also, watch [RSA encryption: Step 1](https://www.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/intro-to-rsa-encryption) on Khan Academy
   
-  - Computer graphics uses geometric algorithms 
+  - Computer graphics.  
   
-  - Google as a search engine
+  - Google as a search engine  
   Before Google, search engines were not really reliable (they couldn't even find themselves!)
     
     > Our main goal is to improve the quality of web search engines... However, the Web of 1997 is quite different... "Junk results"  often wash out any results that a user is interested in. In fact, as of November 1997, **only one of the top four commercial search engines finds itself** (returns its own search page in response to its name in the top ten results). One of the main causes of this problem is that the number of documents in the indices has been increasing by many orders of magnitude, but the user's ability to look at documents has not. **People are still only willing to look at the first few tens of results**.(how often do you go to page 2) Because of this, as the collection size grows, we need tools that have **very high precision** (number of relevant documents returned, say in the top tens of results). Indeed, we want our notion of "relevant" to only include the very best documents since there may be tens of thousands of slightly relevant documents. This very high precision is important even at the expense of recall (the total number of relevant documents the system is able to return). [2] 
     
 
-  - Seaching for a particular email based on its content
+  - Seaching for a book in the library catalogue [DiscoverEd](https://discovered.ed.ac.uk/)
   
   - Detecting spam emails - classification problem   
   
   ![alt text](http://www.revotas.com/blog/wp-content/uploads/2012/01/outlook-junk-e-mail.jpg "Spam")
   ![alt text](http://2.bp.blogspot.com/-xFzQcc77w2M/UBFM8zsVn_I/AAAAAAAAAQk/3EP4HUhGY1o/s1600/spam+classification.png "Spam classifier")  
-  
   - Amazon recommendation system
   
   - Real time face recognition on the airports
