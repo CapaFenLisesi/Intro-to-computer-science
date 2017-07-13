@@ -52,8 +52,8 @@ You are given an array of numbers: `[32, 16, 13, 9, 1, 99, 34, 64]`. In how many
 ### Why do we need (better) algorithms? 
   - drives innovation - new algorithm may create a new business opportunity - [Blackford Analysis Ltd](http://www.research-innovation.ed.ac.uk/Entrepreneurs/Enterprise-showcase/Blackford-Analysis-Ltd)
   - there are a lot of problems that still need to be solved, so chellange and fun
-  - computers are stupid, so they need exact instructions
   - helps improve the performance - competition! [Matrix multiplication algorithm](https://en.wikipedia.org/wiki/Matrix_multiplication_algorithm)
+   - computers are stupid, so they need exact instructions
     
 ### When algorithms go wrong 
 
@@ -75,6 +75,8 @@ nearly did. [4]
   - Pokemon app
   - appending the DOM
 
+### Excercise (15 mins)
+[TODO] Factorial or Fibonnacci function. 
     
 ### What are characteristics of a good algorithm? 
   - efficient (speed and space)
