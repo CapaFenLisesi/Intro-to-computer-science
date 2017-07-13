@@ -69,15 +69,11 @@ https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-not
 
 ### Hackerrank
 
-# Day 2
-
-### Sorting
+# Sorting
 
 ### Hackerrank
 
-# Day 3
-
-### Searching
+# Searching
 
 ### Hackerrank
 
