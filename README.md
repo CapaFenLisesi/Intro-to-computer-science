@@ -46,14 +46,20 @@ How can we create an algorithm to make a tea?
   
   - Real time face recognition on the airports
 
+### Excercise (15 mins)
+You are given an array of numbers: `[32, 16, 13, 9, 1, 99, 34, 64]`. In how many ways we can sort its elements? We are not interested here in using any programming language, just plain English. 
+
 ### Why do we need (better) algorithms? 
   - drives innovation - new algorithm may create a new business opportunity - [Blackford Analysis Ltd](http://www.research-innovation.ed.ac.uk/Entrepreneurs/Enterprise-showcase/Blackford-Analysis-Ltd)
   - there are a lot of problems that still need to be solved, so chellange and fun
   - computers are stupid, so they need exact instructions
   - helps improve the performance - competition! [Matrix multiplication algorithm](https://en.wikipedia.org/wiki/Matrix_multiplication_algorithm)
     
-### Excercise (15 mins)
-You are given an array of numbers: `[32, 16, 13, 9, 1, 99, 34, 64]`. In how many ways we can sort its elements? We are not interested here in using any programming language, just plain English. 
+### When algorithms go wrong 
+
+  - Pokemon app
+  - appending the DOM
+
     
 ### What are characteristics of a good algorithm? 
   - efficient (speed and space)
