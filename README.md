@@ -21,7 +21,7 @@ This is a repo for the gentle introduction to Computer Science for our students 
   
 ### Everyday problems that need good algorithms
   
-  - Navigation - find the shortest path from A to B, say using [Google Maps](https://www.google.co.uk/maps/dir/Edinburgh/Glasgow/@55.938524,-3.9995526,10z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x4887b800a5982623:0x64f2147b7ce71727!2m2!1d-3.188267!2d55.953252!1m5!1m1!1s0x488815562056ceeb:0x71e683b805ef511e!2m2!1d-4.251806!2d55.864237) to get the best route from Edinburgh to Glasgow. Visualise the search with [Dijkstra algorithm](https://qiao.github.io/PathFinding.js/visual/)  
+  - Navigation - find the shortest path from A to B, say using [Google Maps](https://www.google.co.uk/maps/dir/Edinburgh/Glasgow/@55.938524,-3.9995526,10z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x4887b800a5982623:0x64f2147b7ce71727!2m2!1d-3.188267!2d55.953252!1m5!1m1!1s0x488815562056ceeb:0x71e683b805ef511e!2m2!1d-4.251806!2d55.864237) to get the best route from Edinburgh to Glasgow. Visualise the search with [Dijkstra algorithm](https://qiao.github.io/PathFinding.js/visual/)  . Also check [route finding](https://www.khanacademy.org/computing/computer-science/algorithms/intro-to-algorithms/a/route-finding).
 
   - Online banking relies on public key cryptography - how to be sure that nobody can see your communication with the bank. How would you send a password over insecure network? Padlock and box exchange. Also, watch [RSA encryption: Step 1](https://www.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/intro-to-rsa-encryption) on Khan Academy
   
@@ -35,7 +35,10 @@ This is a repo for the gentle introduction to Computer Science for our students 
 
   - Seaching for a particular email based on its content
   
-  - Detecting spam emails
+  - Detecting spam emails - classification problem   
+  
+  ![alt text](http://www.revotas.com/blog/wp-content/uploads/2012/01/outlook-junk-e-mail.jpg "Spam")
+  ![alt text](http://2.bp.blogspot.com/-xFzQcc77w2M/UBFM8zsVn_I/AAAAAAAAAQk/3EP4HUhGY1o/s1600/spam+classification.png "Spam classifier")  
   
   - Amazon recommendation system
   
@@ -52,6 +55,8 @@ This is a repo for the gentle introduction to Computer Science for our students 
   - correct
   - simple
 ### How do we evaluate algoritms? 
+
+https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/asymptotic-notation
 
 # Abstract Data Types
 
@@ -72,6 +77,9 @@ This is a repo for the gentle introduction to Computer Science for our students 
 ### Searching
 
 ### Hackerrank
+
+# Resources
+1. [Spam classification example](https://www.youtube.com/watch?v=4rdqvEtu8Ts) by [Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng) 
 
 # Bibliography
 
