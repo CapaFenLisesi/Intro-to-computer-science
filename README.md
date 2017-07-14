@@ -40,8 +40,10 @@ How can we create an algorithm to make a tea?
   
   ![alt text](http://www.revotas.com/blog/wp-content/uploads/2012/01/outlook-junk-e-mail.jpg "Spam")
   ![alt text](http://2.bp.blogspot.com/-xFzQcc77w2M/UBFM8zsVn_I/AAAAAAAAAQk/3EP4HUhGY1o/s1600/spam+classification.png "Spam classifier")    
-  - Postcode recognition - [Ever wonder how mail is sorted?](https://www.youtube.com/watch?v=bB7dhE_TW9g) @1:00
-  - Real time face recognition on the airports
+  - Postcode recognition  
+    [Ever wonder how mail is sorted?](https://www.youtube.com/watch?v=bB7dhE_TW9g) @1:00
+  - Real time face recognition on the airports  
+    [HEX to Binary](http://www.online-toolz.com/tools/hex-binary-convertor.php)
   - Computer graphics.  
   - Amazon recommendation system
 
