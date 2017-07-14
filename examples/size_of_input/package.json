@@ -1,0 +1,15 @@
+{
+  "name": "size_of_input",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael-Antczak <Michael.Antczak@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "console.table": "^0.8.0",
+    "performance-now": "^2.1.0"
+  }
+}
