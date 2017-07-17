@@ -157,7 +157,34 @@ end for
 
 [Insertion sort JS code](https://github.com/Michael-Antczak/Intro-to-computer-science/blob/master/examples/size_of_input/sorting/insertion_sort.js)
 
-### [Selection sort](https://en.wikipedia.org/wiki/Selection_sort)
+### [Selection sort](https://en.wikipedia.org/wiki/Selection_sort)  
+
+Selection sort on [Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/a/selection-sort-pseudocode)
+
+```
+SelectionSort(A)
+// GOAL: place the elements of A in ascending order
+1  n := length[A]
+2  for i := 1 to n
+3     // GOAL: place the correct number in A[i]
+4     j := FindIndexOfSmallest( A, i, n )
+5     swap A[i] with A[j]
+      // L.I. A[1..i] the i smallest numbers sorted
+6  end-for
+7  end-procedure
+
+
+FindIndexOfSmallest( A, i, n )
+// GOAL: return j in the range [i,n] such 
+//       that A[j]<=A[k] for all k in range [i,n]
+1  smallestAt := i ;
+2  for j := (i+1) to n
+3     if ( A[j] < A[smallestAt] ) smallestAt := j
+      // L.I. A[smallestAt] smallest among A[i..j]
+4  end-for
+5  return smallestAt
+6  end-procedure
+```
 
 ### [Merge sort](https://en.wikipedia.org/wiki/Merge_sort)  
 An example of [Divide and conquer algorithm](https://en.wikipedia.org/wiki/Divide_and_conquer_algorithm)
@@ -192,3 +219,4 @@ By Swfung8 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?c
 8. [Sorting Algorithm](https://en.wikipedia.org/wiki/Sorting_algorithm) at Wikipedia
 9. [Sorting Algorithms](https://brilliant.org/wiki/sorting-algorithms/) at Brilliant
 10. [Introduction to Algorithms](https://www.amazon.co.uk/Introduction-Algorithms-Thomas-H-Cormen/dp/0262533057/ref=sr_1_1?ie=UTF8&qid=1500301567&sr=8-1&keywords=introduction+to+algorithms) by Thomas H. Cormen
+11. [Selection sort pseudocode](http://www.cs.miami.edu/home/burt/learning/Csc517.051/) from the University of Miami
