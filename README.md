@@ -145,6 +145,19 @@ https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-not
 1. What is a data structure?
   > Data structure is a systematic way of organising data and
   > making it accessible in certain ways. [1]
+  
+Check the basic data types on [FreeCodeCamp](https://medium.freecodecamp.org/10-common-data-structures-explained-with-videos-exercises-aaff6c06fb2b) 
+
+Maximum Element on [Hackerrank](https://www.hackerrank.com/challenges/maximum-element/problem)
+  
+### Stack
+
+[Example JS implementation](https://codepen.io/beaucarnes/pen/yMBGbR?editors=0012)  
+
+
+### Queue
+
+[Example JS implementation](https://codepen.io/beaucarnes/pen/QpaQRG?editors=0011)   
 
 ### Hackerrank
 
@@ -255,3 +268,4 @@ algorithm partition(A, lo, hi) is
 10. [Introduction to Algorithms](https://www.amazon.co.uk/Introduction-Algorithms-Thomas-H-Cormen/dp/0262533057/ref=sr_1_1?ie=UTF8&qid=1500301567&sr=8-1&keywords=introduction+to+algorithms) by Thomas H. Cormen
 11. [Selection sort pseudocode](http://www.cs.miami.edu/home/burt/learning/Csc517.051/) from the University of Miami
 12. [Big Oh notation on StackOverflow](https://stackoverflow.com/questions/487258/what-is-a-plain-english-explanation-of-big-o-notation)
+13. [10 Common Data Structures Explained with Videos + Exercises](https://medium.freecodecamp.org/10-common-data-structures-explained-with-videos-exercises-aaff6c06fb2b)
