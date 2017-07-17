@@ -5,7 +5,7 @@ function insertionSort(items) {
         i,                          // index into unsorted section
         j;                          // index into sorted section
 
-    for (i=0; i < len; i++) {
+    for (i = 0; i < len; i++) {
 
         // store the current value because it may shift later
         value = items[i];
@@ -15,11 +15,11 @@ function insertionSort(items) {
          * in the unsorted section, shift all items in the sorted section over
          * by one. This creates space in which to insert the value.
          */
-        for (j=i-1; j > -1 &#038;&#038; items[j] > value; j--) {
-            items[j+1] = items[j];
+        for (j = i - 1; j > -1 && items[j] > value; j--) {
+            items[j + 1] = items[j];
         }
 
-        items[j+1] = value;
+        items[j + 1] = value;
     }
 
     return items;
