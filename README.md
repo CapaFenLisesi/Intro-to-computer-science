@@ -159,7 +159,12 @@ end for
 
 ### [Selection sort](https://en.wikipedia.org/wiki/Selection_sort)
 
-### Merge sort
+### [Merge sort](https://en.wikipedia.org/wiki/Merge_sort)  
+An example of [Divide and conquer algorithm](https://en.wikipedia.org/wiki/Divide_and_conquer_algorithm)
+
+Visualisation of the merge sort  
+![alt text](https://github.com/Michael-Antczak/Intro-to-computer-science/blob/master/resources/Merge-sort-example-300px.gif "Merge sort")   
+By Swfung8 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=14961648
 
 ### Quicksort
 
