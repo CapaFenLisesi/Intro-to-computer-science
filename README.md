@@ -26,6 +26,9 @@ input into the output. [10]
   
 ### Excercise (10 mins)
 How can we create an algorithm to make a tea? 
+
+### Excercise (10 mins)
+Solve Simple Array Sum on [Hackerrank](https://www.hackerrank.com/challenges/simple-array-sum/problem)  
   
 ### Everyday problems that need good algorithms (20 min)
   
@@ -79,6 +82,10 @@ You are given an array of numbers: `[32, 16, 13, 9, 1, 99, 34, 64]`. In how many
   - helps improve the performance - competition! [Matrix multiplication algorithm](https://en.wikipedia.org/wiki/Matrix_multiplication_algorithm)
    - computers are stupid, so they need exact instructions
     
+### Excercise (15 mins)
+
+Arrays - DS on [Hackerrank](https://www.hackerrank.com/challenges/arrays-ds/problem)   
+
 ### When algorithms go wrong 
 
   - TripAdvisor  
@@ -148,12 +155,11 @@ https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-not
   
 Check the basic data types on [FreeCodeCamp](https://medium.freecodecamp.org/10-common-data-structures-explained-with-videos-exercises-aaff6c06fb2b) 
 
-Maximum Element on [Hackerrank](https://www.hackerrank.com/challenges/maximum-element/problem)
   
 ### Stack
 
 [Example JS implementation](https://codepen.io/beaucarnes/pen/yMBGbR?editors=0012)  
-
+Maximum Element on [Hackerrank](https://www.hackerrank.com/challenges/maximum-element/problem)  
 
 ### Queue
 
