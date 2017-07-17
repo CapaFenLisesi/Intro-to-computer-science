@@ -11,18 +11,18 @@ This is a repo for the gentle introduction to Computer Science for our students 
 
 # Algorithms
 
-### What is an algorithm?  
+### What is an algorithm?  (5 min)
   > Intuitively speaking, an algorithm is a step-by-step procedure (a “recipe”) for
   > performing a task (of solving a problem). [1]
   
-### Do we REALLY need to learn about algorithms and data structures?
+### Do we REALLY need to learn about algorithms and data structures? (5 min)
 
   Yes and no. 
   
 ### Excercise (10 mins)
 How can we create an algorithm to make a tea? 
   
-### Everyday problems that need good algorithms
+### Everyday problems that need good algorithms (20 min)
   
   - Navigation - find the shortest path from A to B, say using [Google Maps](https://www.google.co.uk/maps/dir/Edinburgh/Glasgow/@55.938524,-3.9995526,10z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x4887b800a5982623:0x64f2147b7ce71727!2m2!1d-3.188267!2d55.953252!1m5!1m1!1s0x488815562056ceeb:0x71e683b805ef511e!2m2!1d-4.251806!2d55.864237) to get the best route from Edinburgh to Glasgow. Visualise the search with [Dijkstra algorithm](https://qiao.github.io/PathFinding.js/visual/)  . Also check [route finding](https://www.khanacademy.org/computing/computer-science/algorithms/intro-to-algorithms/a/route-finding).
 
@@ -66,7 +66,7 @@ How can we create an algorithm to make a tea?
 ### Excercise (15 mins)
 You are given an array of numbers: `[32, 16, 13, 9, 1, 99, 34, 64]`. In how many ways we can sort its elements? We are not interested here in using any programming language, just plain English. 
 
-### Why do we need (better) algorithms? 
+### Why do we need (better) algorithms? (10 min)
   - drives innovation - new algorithm may create a new business opportunity - [Blackford Analysis Ltd](http://www.research-innovation.ed.ac.uk/Entrepreneurs/Enterprise-showcase/Blackford-Analysis-Ltd)
   - there are a lot of problems that still need to be solved, so chellange and fun
   - helps improve the performance - competition! [Matrix multiplication algorithm](https://en.wikipedia.org/wiki/Matrix_multiplication_algorithm)
@@ -105,12 +105,12 @@ nearly did. [4]
 ### Excercise (15 mins)
 [TODO] Factorial or Fibonnacci function. 
     
-### What are characteristics of a good algorithm? 
+### What are characteristics of a good algorithm? (5 min)
   - efficient (speed and space)
   - correct
   - simple  
   
-### How do we evaluate algoritms? 
+### How do we evaluate algoritms? (10 min)
 
   The running time of a program depends on a number of factors such as:
   - The input given to the program (input size example)
