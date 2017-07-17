@@ -13,7 +13,12 @@ This is a repo for the gentle introduction to Computer Science for our students 
 
 ### What is an algorithm?  (5 min)
   > Intuitively speaking, an algorithm is a step-by-step procedure (a “recipe”) for
-  > performing a task (of solving a problem). [1]
+  > performing a task (of solving a problem). [1]  
+  
+  >Informally, an algorithm is any well-defined computational procedure that takes
+some value, or set of values, as **input** and produces some value, or set of values, as
+**output**. An algorithm is thus a sequence of computational steps that **transform** the
+input into the output. [10]
   
 ### Do we REALLY need to learn about algorithms and data structures? (5 min)
 
@@ -64,7 +69,9 @@ How can we create an algorithm to make a tea?
   - Amazon recommendation system  
 
 ### Excercise (15 mins)
-You are given an array of numbers: `[32, 16, 13, 9, 1, 99, 34, 64]`. In how many ways we can sort its elements? We are not interested here in using any programming language, just plain English. 
+You are given an array of numbers: `[32, 16, 13, 9, 1, 99, 34, 64]`. In how many ways we can sort its elements? We are not interested here in using any programming language, just plain English.   
+
+![alt text](https://github.com/Michael-Antczak/Intro-to-computer-science/blob/master/resources/sorting_problem.png "Sorting problem") 
 
 ### Why do we need (better) algorithms? (10 min)
   - drives innovation - new algorithm may create a new business opportunity - [Blackford Analysis Ltd](http://www.research-innovation.ed.ac.uk/Entrepreneurs/Enterprise-showcase/Blackford-Analysis-Ltd)
@@ -131,6 +138,34 @@ https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-not
 
 # Sorting
 
+**Sorting algorithm** is an algorithm that puts elements of a list in a certain order, i.e. numerical or alphabetical. Check [sort function in JavaScript](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Array/sort).  
+
+**Sorting algorithms** [animation](https://www.toptal.com/developers/sorting-algorithms)  
+
+### [Insertion sort](https://en.wikipedia.org/wiki/Insertion_sort)  
+  (sorting cards)
+
+```
+for i = 1 to length(A)
+    j ← i
+    while j > 0 and A[j-1] > A[j]
+        swap A[j] and A[j-1]
+        j ← j - 1
+    end while
+end for
+```
+
+[Insertion sort JS code](https://github.com/Michael-Antczak/Intro-to-computer-science/blob/master/examples/size_of_input/sorting/insertion_sort.js)
+
+### [Selection sort](https://en.wikipedia.org/wiki/Selection_sort)
+
+### Merge sort
+
+### Quicksort
+
+### Comparison 
+![alt text](https://github.com/Michael-Antczak/Intro-to-computer-science/blob/master/resources/choosing_sorting_algorithm.png "Choose sorting algorithm") 
+
 ### Hackerrank
 
 # Searching
@@ -149,3 +184,6 @@ https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-not
 5. [What Will Happen When Your Company’s Algorithms Go Wrong?](https://hbr.org/2017/04/what-will-happen-when-your-companys-algorithms-go-wrong)
 6. [Google Apologizes For Tagging Photos Of Black People As ‘Gorillas’](http://www.huffingtonpost.com/2015/07/02/google-black-people-goril_n_7717008.html)
 7. [Google apologises for Photos app's racist blunder](http://www.bbc.co.uk/news/technology-33347866)
+8. [Sorting Algorithm](https://en.wikipedia.org/wiki/Sorting_algorithm) at Wikipedia
+9. [Sorting Algorithms](https://brilliant.org/wiki/sorting-algorithms/) at Brilliant
+10. [Introduction to Algorithms](https://www.amazon.co.uk/Introduction-Algorithms-Thomas-H-Cormen/dp/0262533057/ref=sr_1_1?ie=UTF8&qid=1500301567&sr=8-1&keywords=introduction+to+algorithms) by Thomas H. Cormen
