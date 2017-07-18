@@ -45,7 +45,9 @@ Solve Simple Array Sum on [Hackerrank](https://www.hackerrank.com/challenges/sim
     > Our main goal is to improve the quality of web search engines... However, the Web of 1997 is quite different... "Junk results"  often wash out any results that a user is interested in. In fact, as of November 1997, **only one of the top four commercial search engines finds itself** (returns its own search page in response to its name in the top ten results). One of the main causes of this problem is that the number of documents in the indices has been increasing by many orders of magnitude, but the user's ability to look at documents has not. **People are still only willing to look at the first few tens of results**.(how often do you go to page 2) Because of this, as the collection size grows, we need tools that have **very high precision** (number of relevant documents returned, say in the top tens of results). Indeed, we want our notion of "relevant" to only include the very best documents since there may be tens of thousands of slightly relevant documents. This very high precision is important even at the expense of recall (the total number of relevant documents the system is able to return). [2] 
     
 
-  - Seaching for a book in the library catalogue [DiscoverEd](https://discovered.ed.ac.uk/)
+  - Seaching for a book in the library catalogue [DiscoverEd](https://discovered.ed.ac.uk/)  
+    ![alt text](https://github.com/Michael-Antczak/Intro-to-computer-science/blob/master/resources/Alma_books.png "Alma books")  
+    ![alt text](https://github.com/Michael-Antczak/Intro-to-computer-science/blob/master/resources/Alma_users.png "Alma users")  
   
   - Detecting spam emails - classification problem   
   
